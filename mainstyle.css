@@ -1,0 +1,205 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Kumbh Sans", sans-serif;
+  }
+  
+ 
+
+    @media only screen and (min-width: 1200px){
+        
+    }
+    @media only screen and (max-width: 767px){
+        .left_area header {
+            background-color: #d62828;
+            padding: 25px;
+            padding-right: 100%;
+            padding-bottom: 10%;
+            width:max-content;
+            color: #faedcb;
+            text-transform: uppercase;
+            font-size: 20px;
+            font-weight: bold;
+            display: block;
+             }
+        .left_area span {
+            color: #03071e;
+        }
+    
+        ul {
+            list-style-type: none;
+            width: max-content;
+            padding-right:100%;
+            background-color: #03071e;
+            overflow: hidden;
+            display: block;
+          }
+          
+          li {
+            margin-top: 10px;
+    
+            margin-bottom: 0px;
+            float: left;
+            
+          }
+          
+          li a {
+            align-content: center;
+            display: block;
+            color: white;
+            padding-right: 7px;
+            padding-left: 10px;
+            padding-bottom: 0px;
+            text-decoration: none;
+          }
+    
+          i {
+              visibility: hidden;
+          }
+    
+          .signout {
+              visibility: hidden;
+          }
+          
+         center {
+             position: absolute;
+             padding-top: 20px;
+             margin-left: 320px;
+             margin-top: -55px;
+         }
+         sidebar{
+            width: 900px; 
+         }
+         .sidebar .profile_image{
+            width: 30px;
+            height: 30px;
+            border-radius: 100px;
+         }
+         .sidebar h4{
+            color: #03071e;
+            font-size: 10px;
+            font-weight: lighter;
+
+        }
+        .mostviewed h2{
+            background-color:#ebf2fa;
+            padding: 15px;
+            padding-left: 40px;
+            color: #2C3E50;
+            font-size: 18px;
+            width: 100%;
+        }
+        .mostviewed {
+            color: #2C3E50;
+            position: relative;
+        }
+        
+        .main_pic_pro {
+            margin-top: 20px;
+            margin-left: 135px;
+        }
+    }
+    @media only screen and (min-width: 768px){
+        i{
+            visibility: visible;
+        }
+        .signout{
+            visibility: visible;
+        }
+       
+        .left_area h1{
+            color: #faedcb;
+            width:100%;
+            text-transform: uppercase;
+            font-size: 40px;
+            font-weight: bold;
+            background: #d62828;
+            padding: 20px;
+        padding-bottom: 0;
+        }
+
+        .left_area span {
+            color: #03071e;
+        }
+        
+
+        .sidebar{
+            background: #03071e;
+            position: absolute;
+            padding-top: 50px;
+            width: 170px;
+            height: 100%;
+        }
+        center {
+         position: relative;
+         margin-left: 2px;
+         margin-top: 0px; 
+        }
+        .sidebar .profile_image{
+            width: 100px;
+            height: 100px;
+            border-radius: 100px;
+            margin-bottom: 10px;
+        }
+        
+        
+        .sidebar h4{
+            color: #a6e1fa;
+            font-size: 22px;
+            font-weight: bold;
+            margin-top: 0;
+            margin-bottom: 20px;
+        }
+        
+        ul {
+            list-style-type: none;
+            background-color: #03071e;
+            overflow: hidden;
+            width:100%;
+          }
+          
+          li {
+            margin:0px;  
+            width:100%; 
+          }
+          
+          li a {
+            width:100%;
+            align-content: center;
+            padding:0px;
+            text-decoration: none;
+          }
+        .sidebar a{
+            color: #edf2fb;
+            width: 100%;
+            line-height: 60px;
+            text-decoration: none;
+            padding-left: 45px;
+            border-bottom: 1px solid rgba(225,225,225,.1);
+            border-top: 1px solid rgba(225,225,225,.1);
+            box-sizing: border-box;
+            transition: 0.5s;
+        }
+        
+        .sidebar a:hover{ 
+            background: #002855;
+            
+        }
+        .mostviewed h2{
+            background-color:#ebf2fa;
+            padding: 15px;
+            color: #2C3E50;
+            font-size: 30px;
+        }
+        .mostviewed {
+            color: #2C3E50;
+            position: relative;
+            margin-left: 170px;
+        }
+        
+        .main_pic_pro {
+            margin-top: 20px;
+            margin-left: 80px;
+        }
+    }

@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<products>
+
+  <!-- FRUITS -->
+  <p>      
+    <id>1</id>
+   
+    <aisles>fruits</aisles>
+    <name>apple</name>
+    <quantity>30L</quantity>
+    <price>$12.99</price>
+    
+      </p>
+    <p>      
+    <id>2</id>
+  
+    <aisles>fruits</aisles>
+    <name>orange</name>
+     <quantity>30L</quantity>
+    <price>$14.99</price>
+    
+      </p>
+      <p>      
+    <id>3</id>
+   
+    <aisles>fruits</aisles>
+    <name>watermelon</name>
+    <quantity>30L</quantity>
+    <price>$9.99</price>
+    
+      </p>
+  <p>      
+    <id>4</id>
+  
+    <aisles>fruits</aisles>
+    <name>banana</name>
+      <quantity>30L</quantity>
+    <price>$12.99</price>
+    
+      </p>
+
+      <!-- VEG -->
+    <p>      
+    <id>5</id>
+    <description>info</description>
+    <aisles>vegetable</aisles>
+    <name>potato</name>
+     <quantity>30L</quantity>
+    <price>$14.99</price>
+    
+      </p>
+      <p>      
+    <id>6</id>
+    <description>info</description>
+    <aisles>vegetable</aisles>
+    <name>tomato</name>
+      <quantity>30L</quantity>
+    <price>$7.99</price>
+    
+      </p>
+      <p>      
+    <id>7</id>
+    <description>info</description>
+    <aisles>vegetable</aisles>
+    <name>cucumber</name>
+      <quantity>30L</quantity>
+    <price>$5.99</price>
+    
+      </p>
+      <p>      
+    <id>8</id>
+    <description>info</description>
+    <aisles>vegetable</aisles>
+    <name>carrot</name>
+      <quantity>30L</quantity>
+    <price>$7.99</price>
+    
+      </p>
+
+<!-- MEAT -->
+
+    <p>      
+    <id>9</id>
+    <description>info</description>
+    <aisles>meat</aisles>
+    <name>ground beef</name>
+      <quantity>30L</quantity>
+    <price>$14.99</price>
+    
+      </p>
+      <p>      
+    <id>10</id>
+    <description>info</description>
+    <aisles>meat</aisles>
+    <name>steak</name>
+    <quantity>30L</quantity>
+    <price>$7.99</price>
+    
+      </p>
+      <p>      
+    <id>11</id>
+    <description>info</description>
+    <aisles>meat</aisles>
+    <name>veal</name>
+      <quantity>30L</quantity>
+    <price>$5.99</price>
+    
+      </p>
+      <p>      
+    <id>12</id>
+    <description>info</description>
+    <aisles>meat</aisles>
+    <name>chicken</name>
+      <quantity>30L</quantity>
+    <price>$7.99</price>
+    
+      </p>
+
+<!-- DAIRY -->
+
+    <p>      
+    <id>13</id>
+    <description>info</description>
+    <aisles>dairy</aisles>
+    <name>milk</name>
+      <quantity>30L</quantity>
+    <price>$4.99</price>
+    
+      </p>
+      <p>      
+    <id>14</id>
+    <description>info</description>
+    <aisles>dairy</aisles>
+    <name>cheese</name>
+      <quantity>30L</quantity>
+    <price>$7.99</price>
+    
+      </p>
+      <p>      
+    <id>15</id>
+    <description>info</description>
+    <aisles>dairy</aisles>
+    <name>yogurt</name>
+      <quantity>30L</quantity>
+    <price>$6.99</price>
+    
+      </p>
+      <p>      
+    <id>16</id>
+    <description>info</description>
+    <aisles>dairy</aisles>
+    <name>butter</name>
+     <quantity>30L</quantity>
+    <price>$7.99</price>
+    
+      </p>
+<!-- SNACK -->
+
+    <p>      
+    <id>17</id>
+    <description>info</description>
+    <aisles>snack</aisles>
+    <name>chocolate</name>
+   <quantity>30L</quantity>
+    <price>$4.99</price>
+    
+      </p>
+      <p>      
+    <id>18</id>
+    <description>info</description>
+    <aisles>snack</aisles>
+    <name>chips</name>
+   <quantity>30L</quantity>
+    <price>$7.99</price>
+    
+      </p>
+      <p>      
+    <id>19</id>
+    <description>info</description>
+    <aisles>snack</aisles>
+    <name>icecream</name>
+      <quantity>30L</quantity>
+    <price>$6.99</price>
+    
+      </p>
+      <p>      
+    <id>20</id>
+    <description>info</description>
+    <aisles>snack</aisles>
+    <name>muffin</name>
+     <quantity>30L</quantity>
+    <price>$7.99</price>
+    
+      </p>
+<!-- DRINK -->
+
+    <p>      
+    <id>21</id>
+    <description>info</description>
+    <aisles>drink</aisles>
+    <name>banana</name>
+     <quantity>30L</quantity>
+    <price>$4.99</price>
+    
+      </p>
+      <p>      
+    <id>22</id>
+    <description>info</description>
+    <aisles>drink</aisles>
+    <name>orange</name>
+   <quantity>30L</quantity>
+    <price>$7.99</price>
+    
+      </p>
+      <p>      
+    <id>23</id>
+    <description>info</description>
+    <aisles>drink</aisles>
+    <name>watermelon</name>
+  <quantity>30L</quantity>
+    <price>$6.99</price>
+    
+      </p>
+      <p>      
+    <id>24</id>
+    <description>info</description>
+    <aisles>drink</aisles>
+    <name>apple</name>
+    <quantity>30L</quantity>
+    <price>$7.99</price>
+    
+      </p>
+
+</products>

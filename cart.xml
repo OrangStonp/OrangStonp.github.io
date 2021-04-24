@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<products>
+
+
+<p><id>ground beef</id><name>$14.99</name><quantity>9</quantity></p>
+<p><id>steak</id><name>$7.99</name><quantity>10</quantity></p>
+<p><id>chips</id><name>$7.99</name><quantity>18</quantity>
+</p></products>
